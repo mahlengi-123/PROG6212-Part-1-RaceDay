@@ -45,11 +45,11 @@ The SQL script in `docs/RaceDay_Database.sql` matches the ERD exactly - no delib
 
 A workflow at `.github/workflows/validate-structure.yml` runs on every push/PR to `main` and checks that the `/docs` folder exists and contains `ERD.png`, `API-Endpoint-Plan.md`, and `RaceDay_Database.sql`.
 
-**[CI screenshot placeholder]** - after pushing this repo to GitHub, replace this line with a screenshot of the green (passing) Actions build. Go to the **Actions** tab on GitHub, open the latest successful run, and paste a screenshot here.
+**[CI screenshot placeholder]** - after pushing this repo to GitHub, I will replace this line with a screenshot of the green (passing) Actions build. On the **Actions** tab on GitHub, i will open the latest successful run, and paste a screenshot here.
 
 ## Video presentation
 
-**[Video link placeholder]** - this part also requires a short video walking through your ERD decisions, endpoint plan choices, and running the SQL script live in SSMS. Record it and paste the link here before submitting.
+**[Video link placeholder]** - this part also requires a short video walking through my ERD decisions, endpoint plan choices, and running the SQL script live in SSMS. Record it and paste the link here before submitting.
 
 ## Commit history for this part
 

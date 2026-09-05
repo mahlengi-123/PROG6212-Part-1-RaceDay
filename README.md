@@ -325,7 +325,6 @@ The GitHub Actions workflow completed successfully.
 
 ### Successful CI/CD Build
 
-``
 ![Successful CI/CD Build](docs/CI_CD_Success.png)
 
 

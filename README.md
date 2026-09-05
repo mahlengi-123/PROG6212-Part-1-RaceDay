@@ -318,13 +318,14 @@ The workflow checks that the repository contains:
 
 The workflow file is stored in:
 
+``
 `.github/workflows/validate-docs.yml`
-
 The GitHub Actions workflow completed successfully.
 
 
 ### Successful CI/CD Build
 
+``
 ![Successful CI/CD Build](docs/CI_CD_Success.png)
 
 
@@ -348,6 +349,7 @@ The video includes:
 * Successful GitHub Actions CI/CD workflow
 
 ### -YouTube Video Link
+``
 
 [Watch the RaceDay Part 1 Presentation on YouTube](https://youtu.be/IZk6nK_upWc)
 
@@ -360,26 +362,6 @@ The video includes:
 | API Endpoint Plan           | `docs/RaceDay_API_Endpoint_Plan.pdf` |
 | SQL Database Script         | `docs/RaceDay_Database.sql`          |
 | CI/CD Evidence              | `docs/CI_CD_Success.png`             |
-
-
-
-## Part 1 Completion Status
-
-* [x] Database designed
-* [x] Six database tables created
-* [x] Primary keys implemented
-* [x] Foreign keys implemented
-* [x] Database relationships created
-* [x] Cardinalities documented
-* [x] Sample data inserted
-* [x] SQL script tested successfully
-* [x] ERD completed
-* [x] API Endpoint Plan completed
-* [x] GitHub repository created
-* [x] GitHub Actions workflow created
-* [x] CI/CD validation successful
-* [x] CI/CD screenshot added
-* [ x] YouTube video link added to README
 
 
 

@@ -322,9 +322,10 @@ The workflow file is stored in:
 
 The GitHub Actions workflow completed successfully.
 
+
 ### Successful CI/CD Build
 
-<img width="869" height="450" alt="CI CD Real Workflow" src="https://github.com/user-attachments/assets/e3522cc4-043f-4364-9600-bb5c823da0df" />
+![Successful CI/CD Build](docs/CI_CD_Success.png)
 
 
 
@@ -348,13 +349,8 @@ The video includes:
 
 ### YouTube Video Link
 
-### YouTube Video Link
-
 [Watch the RaceDay Part 1 Presentation on YouTube](https://youtu.be/IZk6nK_upWc)
- 
-
-
-
+ Success
 
 ## Part 1 Documentation
 

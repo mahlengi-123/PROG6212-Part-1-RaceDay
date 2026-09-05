@@ -304,7 +304,7 @@ RaceDay/
 └── .github/
     └── workflows/
         └── validate-docs.yml
-
+```
 ## GitHub Actions CI/CD
 
 GitHub Actions is used to automatically validate the required Part 1 repository files.
@@ -347,10 +347,10 @@ The video includes:
 * GitHub repository
 * Successful GitHub Actions CI/CD workflow
 
-### YouTube Video Link
+### -YouTube Video Link
 
 [Watch the RaceDay Part 1 Presentation on YouTube](https://youtu.be/IZk6nK_upWc)
- Success
+
 
 ## Part 1 Documentation
 

@@ -50,7 +50,8 @@ A workflow at `.github/workflows/validate-structure.yml` runs on every push/PR t
 
 ## Video presentation
 
-**[Video link placeholder]** - this part also requires a short video walking through my ERD decisions, endpoint plan choices, and running the SQL script live in SSMS. Record it and paste the link here before submitting.
+**[Video link placeholder]**   - this part also requires a short video walking through my ERD decisions, endpoint plan choices, and running the SQL script live in SSMS. Record it and paste the link here before submitting.
+https://youtu.be/r7C1bVafWAI
 
 ## Commit history for this part
 

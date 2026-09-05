@@ -324,7 +324,9 @@ The GitHub Actions workflow completed successfully.
 
 ### Successful CI/CD Build
 
-<img width="1600" height="764" alt="WhatsApp Image 2026-09-05 at 10 31 08 (1)" src="https://github.com/user-attachments/assets/1d90f366-e452-478c-b112-2ddd2ea7d6b3" />
+<img width="869" height="450" alt="CI CD Real Workflow" src="https://github.com/user-attachments/assets/e3522cc4-043f-4364-9600-bb5c823da0df" />
+
+
 
 
 
@@ -346,9 +348,10 @@ The video includes:
 
 ### YouTube Video Link
 
-**YouTube Link:**
-  https://youtu.be/IZk6nK_upWc
-https://youtu.be/IZk6nK_upWc
+### YouTube Video Link
+
+[Watch the RaceDay Part 1 Presentation on YouTube](https://youtu.be/IZk6nK_upWc)
+ 
 
 
 

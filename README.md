@@ -324,9 +324,8 @@ The GitHub Actions workflow completed successfully.
 
 ### Successful CI/CD Build
 
+<img width="1600" height="764" alt="WhatsApp Image 2026-09-05 at 10 31 08 (1)" src="https://github.com/user-attachments/assets/1d90f366-e452-478c-b112-2ddd2ea7d6b3" />
 
-<img width="1600" height="764" alt="image" src="https://github.com/user-attachments/assets/75870848-fea0-4927-8e24-9abc98a922ef" />
-](docs/CI_CD_Success.png)
 
 
 ## YouTube Walkthrough
@@ -348,7 +347,9 @@ The video includes:
 ### YouTube Video Link
 
 **YouTube Link:**
- https://youtu.be/IZk6nK_upWc 
+  https://youtu.be/IZk6nK_upWc
+https://youtu.be/IZk6nK_upWc
+
 
 
 
